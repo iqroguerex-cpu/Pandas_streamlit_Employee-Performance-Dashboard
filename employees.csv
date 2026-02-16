@@ -1,0 +1,10 @@
+employee,department,projects_completed,hours_worked,performance_score
+Alice,Engineering,5,160,88
+Bob,Engineering,3,150,75
+Charlie,Engineering,6,170,92
+David,HR,4,155,80
+Emma,HR,2,140,70
+Frank,HR,5,165,85
+Grace,Sales,7,180,95
+Henry,Sales,4,175,78
+Isabella,Sales,6,190,90
